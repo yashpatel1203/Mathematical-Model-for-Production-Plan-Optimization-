@@ -1,0 +1,11 @@
+Batch ID,Type,Production Time (h),Assigned Machine,Start Time,End Time,Status,Penalty Cost,Production Cost
+1,R,3,S2,1,4,Assigned,$ 0.00,$ 300.00
+2,B,3,N/A,N/A,N/A,Rejected,$ 463.00,$ 0.00
+3,R,4,S3,8,12,Assigned,$ 0.00,$ 480.00
+4,R,2,S3,2,4,Assigned,$ 0.00,$ 240.00
+5,R,2,N/A,N/A,N/A,Rejected,$ 270.00,$ 0.00
+6,R,4,S3,4,8,Assigned,$ 0.00,$ 480.00
+7,R,2,S2,4,6,Assigned,$ 0.00,$ 200.00
+8,R,4,S2,6,10,Assigned,$ 0.00,$ 400.00
+9,R,2,N/A,N/A,N/A,Rejected,$ 273.00,$ 0.00
+10,R,3,S2,10,13,Assigned,$ 0.00,$ 300.00

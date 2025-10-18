@@ -1,0 +1,8 @@
+Batch ID,Type,Production Time (h),Assigned Machine,Start Time (0-indexed),End Time (0-indexed),Status
+1,R,2,S2,6,8,Assigned
+2,B,2,S3,3,5,Assigned
+3,B,2,S2,3,5,Assigned
+4,R,4,S3,5,9,Assigned
+5,B,1,S2,1,2,Assigned
+6,B,3,N/A,N/A,N/A,Rejected
+7,B,1,S2,2,3,Assigned
